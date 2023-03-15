@@ -1,8 +1,5 @@
 {
     "load": [
         "DestinyRotation.lua",
-        "spells/mage/mage.lua",
-        "spells/mage/fire.lua",
-        "actors/mage/fire.lua",
     ]
 }
